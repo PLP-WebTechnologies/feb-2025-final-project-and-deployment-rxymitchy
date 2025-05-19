@@ -1,6 +1,8 @@
 # My Blog Website - README
 
-![Blog Website Screenshot](images/myblog.png)
+![Blog Website Screenshot](blog-website/images/myblog.png)
+
+Link: https://speciesblog.netlify.app/
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -76,8 +78,6 @@ cd blog-website
 ## Deployment
 
 The project is deployed using Netlify
-
-Link: 
 
 To deploy your own version:
 1. Upload the project to a GitHub repository
