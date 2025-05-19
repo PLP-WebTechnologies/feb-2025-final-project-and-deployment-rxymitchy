@@ -43,7 +43,7 @@ To run this project locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/blog-website.git
+git clone [https://github.com/your-username/blog-website.git](https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-rxymitchy.git)
 ```
 
 2. Navigate to the project directory:
@@ -75,8 +75,7 @@ cd blog-website
 
 ## Deployment
 
-The project is deployed on Netlify:  
-🔗 [Live Demo](https://radiant-bubblegum-5c1a9b.netlify.app/)
+The project is deployed
 
 To deploy your own version:
 1. Upload the project to a GitHub repository
@@ -87,17 +86,7 @@ To deploy your own version:
 
 ## Contributing
 
-Contributions are welcome! Here's how you can help:
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Contributions are welcome!
 
 ---
 
