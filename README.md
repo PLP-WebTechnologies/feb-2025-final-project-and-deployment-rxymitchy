@@ -43,7 +43,7 @@ To run this project locally:
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/your-username/blog-website.git](https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-rxymitchy.git)
+git clone (https://github.com/PLP-WebTechnologies/feb-2025-final-project-and-deployment-rxymitchy.git)
 ```
 
 2. Navigate to the project directory:
