@@ -1,6 +1,6 @@
 # My Blog Website - README
 
-![Blog Website Screenshot](./images/myblog.png)
+![Blog Website Screenshot](images/myblog.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
