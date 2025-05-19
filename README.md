@@ -1,6 +1,6 @@
 # My Blog Website - README
 
-![Blog Website Screenshot](./images/screenshot.png)
+![Blog Website Screenshot](./images/blogscreenshot.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -75,7 +75,9 @@ cd blog-website
 
 ## Deployment
 
-The project is deployed
+The project is deployed using Netlify
+
+Link: 
 
 To deploy your own version:
 1. Upload the project to a GitHub repository
